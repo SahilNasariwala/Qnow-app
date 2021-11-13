@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132814644178",
+    "project_id": "discuss-43c8c",
+    "storage_bucket": "discuss-43c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132814644178:android:e6871a45c5d3cddaf49e0b",
+        "android_client_info": {
+          "package_name": "com.example.discuss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132814644178-nffvgeglhqmsdv7qu6umm3764pn4uhce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABhTbZVW7o3Bsxrahjhta-rsCKA7CVsE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132814644178-nffvgeglhqmsdv7qu6umm3764pn4uhce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
