@@ -1,6 +1,6 @@
 # discuss
 
-A new Flutter project.
+My Flutter project for people who want to learn or share the knowledge to world.
 
 ## Getting Started
 
